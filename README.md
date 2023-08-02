@@ -2,6 +2,8 @@
 <img src=" https://www.facebook.com/photo.php?fbid=618933061640775&set=pb.100005722598421.-2207520000.&type=3" align="center" style="width: 100%" />
 </div>  
   
+![Banner Linkedin](https://github.com/CristianCuesta14/CristianCuesta14/assets/110426875/7f5c9dad-af63-4b33-94d8-1938b25ac4ff)
+
 
 ### <div align="center">¡Hola! Soy Cristian Cuesta Full Stack Developer Junior </div>  
   
